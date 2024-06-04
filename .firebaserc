@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "deploy": "try-one-846d6",
+    "default": "try-one-846d6"
+  },
+  "targets": {},
+  "etags": {}
+}
